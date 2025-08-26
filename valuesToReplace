@@ -1,0 +1,7 @@
+# valuesToReplace (in new json files):
+
+## "https://services2.arcgis.com/e69aJifXCNR0AIA9/arcgis/rest/services/Wells_ME_20250819_InstalledLights/FeatureServer/10" column B in jsonProjects
+## "https://services2.arcgis.com/e69aJifXCNR0AIA9/arcgis/rest/services/Wells_ME_20250819_InstalledLights/FeatureServer/10" column C in jsonProjects
+## "https://services2.arcgis.com/e69aJifXCNR0AIA9/arcgis/rest/services/Wells_ME_20250819_Maintenance/FeatureServer/0" column D in jsonProjects
+## "33045e89b82c413bbb9006ccd4f6ecea" column E in jsonProjects
+## "c9960109f028446a92ed8bf9eca83391" column F in jsonProjects
